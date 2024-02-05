@@ -26,4 +26,3 @@ This is a simple web page that uses the Numbers API to fetch and display random 
 - Background image: [Unsplash](https://source.unsplash.com/random/?rainbow?1)
 - Numbers API: [Numbers API](http://numbersapi.com/)
 
-## view=>http://127.0.0.1:5501/index.html
